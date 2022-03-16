@@ -1,0 +1,54 @@
+.nav-link {
+	font-size: 1.27em;
+}
+
+#buscar {
+	color: white;
+	border-color: white;
+}
+
+.navmedio {
+    padding-left: 45%!important;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: #f0f0f0;
+}
+
+a, button {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  outline: none;
+}
+
+a i.fa, button i.fa {
+  margin: 0 5px;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+.box {
+  background: #fff;
+  margin: 0 0 30px;
+  border: solid 1px #e6e6e6;
+  padding: 30px;
+  -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 767.98px) {
+  .box .box-footer .btn {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 750px) {
+    .top {
+        padding-top: 20%;
+    }
+}
+
+

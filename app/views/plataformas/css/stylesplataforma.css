@@ -1,0 +1,33 @@
+.nav-link {
+	font-size: 1.27em;
+}
+
+#buscar {
+	color: white;
+	border-color: white;
+}
+
+.navmedio {
+    padding-left: 45%!important;
+}
+
+.top {
+	padding-top: 5%;
+}
+
+.soon {
+	padding-top: 10%;
+	padding-bottom: 1%;
+}
+
+#comingsoon {
+	font-size: 2em;
+	padding-bottom: 158%;
+}
+
+@media only screen and (max-width: 991px) {
+	.soon {
+		padding-top: 15%;
+		padding-bottom: 1%;
+	}
+  }

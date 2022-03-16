@@ -1,0 +1,215 @@
+#b4b {
+    background-size: cover;
+    background-image: url("../img/pc/b4b/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+#btf2042 {
+    background-size: cover;
+    background-image: url("../img/pc/btf2042/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+#cyber {
+    background-size: cover;
+    background-image: url("../img/pc/cyber/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+#daysgone {
+    background-size: cover;
+    background-image: url("../img/pc/daysgone/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+#dyinglight {
+    background-size: cover;
+    background-image: url("../img/pc/dyinglight/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+#dyinglight2 {
+    background-size: cover;
+    background-image: url("../img/pc/dyinglight2/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+#farcry6 {
+    background-size: cover;
+    background-image: url("../img/pc/farcry6/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+
+#farming22 {
+    background-size: cover;
+    background-image: url("../img/pc/farming22/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+
+#fh5 {
+    background-size: cover;
+    background-image: url("../img/pc/fh5/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+
+#god {
+    background-size: cover;
+    background-image: url("../img/pc/god/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+
+#gtav {
+    background-size: cover;
+    background-image: url("../img/pc/gtav/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+
+#halo {
+    background-size: cover;
+    background-image: url("../img/pc/halo/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+
+#noman {
+    background-size: cover;
+    background-image: url("../img/pc/noman/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+#payday2 {
+    background-size: cover;
+    background-image: url("../img/pc/payday2/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+#r6 {
+    background-size: cover;
+    background-image: url("../img/pc/r6/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+#watchdogs {
+    background-size: cover;
+    background-image: url("../img/pc/watchdogs/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+}
+
+.nav-link {
+	font-size: 1.27em;
+}
+
+.cover {
+    padding-left: 10%!important;
+}
+
+.coverimg {
+    border-radius: 5%;
+}
+
+.top {
+    padding-top: 5%;
+}
+
+.bottom {
+    padding-bottom: 8%;
+}
+
+.left {
+    padding-left: 5%;
+}
+
+.right {
+    padding-right: 50%;
+}
+
+footer {
+    padding-top: 2%;
+}
+
+.ppc{
+    font-weight: bold;
+}
+
+.pwarning {
+    color: red;
+    font-weight: bold;
+}
+
+.carousel {
+    padding-left: 13%;
+}
+
+.fondocarousel {
+    background-color: gray;
+}
+
+.topmain {
+    padding-top: 3%;
+}
+
+#buscar {
+	color: white;
+	border-color: white;
+}
+
+#slidermenu {
+	height: 65%!important;
+	width: 65%!important;
+}
+
+.requisitos2 {
+    font-size: 0.7em;
+}
+
+@media (max-width: 991px) {
+    #info {
+        padding-left: 20%;
+    }
+
+    main {
+        padding-top: 10%!important;
+    }
+  }
+
+.texto {
+    position: unset;
+}
+

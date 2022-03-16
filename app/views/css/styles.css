@@ -1,0 +1,99 @@
+.nav-link {
+	font-size: 1.27em;
+}
+
+.h1slider {
+	font-size: 1.3em;
+	color: rgb(151, 37, 204);
+	display: inline-block;
+	font-weight: bold;
+}
+
+.center {
+	text-align: center;
+}
+
+.left {
+	padding-left: 20%;
+}
+
+.top {
+	padding-top: 5%;
+}
+
+.bottom {
+	padding-bottom: 5%;
+}
+
+.product {
+	padding-top: 5%;
+	padding-bottom: 5%;
+} 
+
+.paddingleft {
+	padding-left: 15%;	
+}
+
+.rowprincipal {
+	padding-left: 15%;
+	padding-top: 5%;
+}
+
+#buscar {
+	color: white;
+	border-color: white;
+}
+
+.h5carousel {
+	font-size: 2em!important;
+}
+
+#slidermenu {
+	height: 75%;
+	width: 75%;
+	padding-left: 20%;
+}
+
+#novedades {
+	padding-left: 20%;
+	padding-top: 5%;	
+}
+
+#masvendidos {
+	padding-left: 20%;
+}
+
+#carouselExampleCaptions {
+	padding-bottom: 5%;
+}
+
+#lanzamientos {
+	padding-top: 3%;
+}
+
+.tituloproducto {
+	color: black;
+	text-decoration-line: none;
+}
+
+.subtituloproducto {
+	text-decoration-line: none;
+}
+
+@media only screen and (max-width: 1570px) {
+	.mainimagen {
+		margin-right: 5%!important;
+	}
+
+	.top {
+		padding-top: 10%;
+	}
+  }
+
+  @media only screen and (max-width: 1263px) {
+	.mainimagen {
+		margin-right: 10%!important;
+	}
+  }
+
+
